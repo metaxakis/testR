@@ -7,7 +7,6 @@ rect.hclust(c, k=5)
 groups<-cutree(c, k=5)
 dat$cluster<-groups
 head(dat)
-
-
+write.csv(dat, "data.csv")
 
 
