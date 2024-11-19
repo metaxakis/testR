@@ -17,6 +17,8 @@
 
 ## Σύνδεσμοι άσκησης
 
+[Σύνδεσμος σε προσωπικό αποθετήριο](https://github.com/metaxakis/testR/)
+
 [Σύνδεσμος σε αρχείο με κώδικα R για την εξέταση](https://github.com/metaxakis/testR/blob/main/askisi.R)
 
 [Σύνδεσμος σε αρχείο εικόμας που ζητήθηκε](https://github.com/metaxakis/testR/blob/main/Rplot.png)
